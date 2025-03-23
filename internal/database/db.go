@@ -4,8 +4,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yourusername/KeyValueDatabase/internal/storage"
-	"github.com/yourusername/KeyValueDatabase/internal/persistence"
+	"github.com/sidquark/KeyValueDatabase/internal/storage"
+	"github.com/sidquark/KeyValueDatabase/internal/persistence"
 )
 
 // DB represents the main database instance
