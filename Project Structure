@@ -1,0 +1,16 @@
+KeyValueDatabase/
+├── cmd/
+│   └── server/
+│       └── main.go
+├── internal/
+│   ├── storage/
+│   │   └── hashtable.go
+│   ├── database/
+│   │   ├── db.go
+│   │   ├── crud.go
+│   │   └── errors.go
+│   └── persistence/
+│       ├── log.go
+│       └── recovery.go
+├── go.mod
+└── README.md
