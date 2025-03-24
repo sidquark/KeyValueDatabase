@@ -1,3 +1,3 @@
-module github.com/yourusername/KeyValueDatabase
+module github.com/sidquark/KeyValueDatabase
 
 go 1.21
